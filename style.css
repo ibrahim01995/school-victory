@@ -430,7 +430,7 @@ GqRightInner p {
 
 .teacher {
   margin: 0 auto;
-  padding: 100px 0;
+  padding: 20px 0;
 }
 
 .package {
@@ -448,7 +448,7 @@ GqRightInner p {
   width: 250px;
   box-shadow: 0 10px 15px blue;
   padding: 25px;
-  background-color: aqua;
+  background-color: white;
   margin-left: 40px;
 }
 
@@ -458,8 +458,8 @@ GqRightInner p {
 
 .packageCard>i {
   padding: 25px;
-  background-color: var(--clr-primary);
-  color: var(--clr-light-text);
+  background-color: olivedrab;
+  color: white;
   font-size: 36px;
   border-radius: 50%;
 }
@@ -470,15 +470,17 @@ GqRightInner p {
 }
 
 .packageCard h2 {
-  font-size: var(--fs-x);
-  color: var(--clr-primary);
+  font-size: medium;
+  color: olivedrab;
   font-weight: var(--fw-bold);
+
 }
 
 .packageCard h6 {
   font-weight: var(--fw-bold);
   color: var(--clr-disabled-blue);
   font-size: var(--fs-light);
+  background-color: #96BB7C;
 }
 
 .packageCard p {
@@ -495,7 +497,7 @@ GqRightInner p {
 .packageCard button {
   width: 100%;
   border: none;
-  background-color: var(--clr-primary);
+  background-color: olivedrab;
   color: var(--clr-light-text);
   padding: 20px 0;
   border-radius: var(--br-normal);
@@ -514,7 +516,7 @@ GqRightInner p {
 
 .fa-circle-check {
   font-size: 30px;
-  color: var(--clr-tick);
+  color: olivedrab;
   margin-right: 10px;
 }
 
@@ -528,7 +530,7 @@ GqRightInner p {
 }
 
 .bg-blue {
-  background-color: var(--clr-dark-bg);
+  background-color: darkslategray;
   margin-bottom: 20px;
   position: relative;
 }
