@@ -17,6 +17,7 @@
   justify-content: space-around;
 
 
+
   /* background-color: brown; */
   /* margin-left: 59px;
   margin-right: 59px; */
@@ -53,7 +54,7 @@
   background-color: #96BB7C;
   color: white;
   border: none;
-  height: 20px;
+  height: 40px;
   margin-left: 30px;
   border-radius: 5px;
 }
