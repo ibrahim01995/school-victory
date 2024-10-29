@@ -612,7 +612,7 @@ GqRightInner p {
 /* Subscribe CSS Starts Here */
 
 .subscribe {
-  background-color: var(--clr-pink);
+  background-color: rgb(235, 209, 209);
   padding: 150px 0;
 }
 
@@ -624,7 +624,7 @@ GqRightInner p {
 }
 
 .subContainer h6 {
-  color: var(--clr-primary);
+  color: blue;
   font-size: var(--fs-light);
   margin-bottom: 10px;
 }
